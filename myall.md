@@ -1,12 +1,14 @@
 ```
-     i t da i  mo u do re   i  no      ji ka n  o
+     i t ta i  mo u do re   i  no      ji ka n  o
 一体(いった い)も うど れ位(い) の时间( じ か ん)を
 ```
-　   to mo  ni   su  go shi te    ki  ta  n da ro u
-- 共(と も) に过(す) ご し   て 来(き) た ん だ ろう
-
-- 一体(いったい)もうどれ位(い)の距离(きょり)を
-
+```
+   to mo  ni   su  go shi te    ki  ta  n da ro u
+共(と も) に过(す) ご し   て 来(き) た ん だ ろう
+```
+```
+一体(いったい)もうどれ位(い)の距离(きょり)を
+```
 - 共(とも)に进(すす)んだだろう
 
 - 仆达(ぼくたち)がこれまでに残(のこ)してきた
